@@ -1,0 +1,36 @@
+.bg {
+    background-color: #fff;
+    height: 100vh;
+
+}
+
+.bg1 {
+    background-image: url("../images/bg1.jpg");
+    background-color: #cccccc;
+    height: 100vh;
+    background-repeat: no-repeat;
+
+}
+
+.text-color {
+	color:white;
+}
+
+
+.bdr {
+
+	border-style: bold black;
+	border-width: 3px;
+	border-color: red;
+}
+
+body {
+	font-family: 'ComicSans';
+	color: DDD;
+}
+
+.image {
+  height: 300px;
+}
+
+
